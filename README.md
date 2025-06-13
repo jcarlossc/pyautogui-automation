@@ -1,6 +1,9 @@
 # PyAutoGUI
 
-Estudo sobre a biblioteca PyAutoGUI para automação de controle do sistema operacional em linguagem de programação Python e ambiente virtual Venv.
+Estudo sobre a biblioteca PyAutoGUI para automação e controle do sistema operacional em linguagem de programação Python e ambiente virtual Venv.
+Especificamente, este pequeno projeto conta com duas classe: A primeira classe - BlocoNotasSemImagem - abre o bloco
+de notas, escreve um pequeno texto, salva e fecha o software. A segunda - BlocoNotasComImagem - abre o bloco
+de notas, escreve um pequeno texto, salva e fecha o software com a ajuda de uma imagem png.
 
 PyAutoGUI: é uma biblioteca multiplataforma de automação da interface gráfica do usuário, usada para mover o mouse, clicar, digitar, pressionar teclas e interagir com elementos visuais na tela.
 
